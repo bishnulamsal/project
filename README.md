@@ -1,6 +1,3 @@
-# project
-HTML, CSS, JAVA
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
